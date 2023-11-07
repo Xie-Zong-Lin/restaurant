@@ -3,13 +3,14 @@
 
 ## 學習目的：
 ### -學習react框架、component的概念、props的傳入。
-### -CSS無使用bootstrap/tailwinds等套件，可以更加熟悉CSS基礎。
+### -CSS無使用bootstrap/tailwindsCSS等套件，可以更加熟悉CSS基礎。
 ### -學習RWD設計流程。
 
 
 
 ## 新增的功能：
-### -新增orderList，且使用react-router實現切換分頁。
+### -新增orderList，且使用react-router切換分頁。
+### -使用tailwindsCSS直接在className中排版。
 
 ### 會使用此專案會持續增加額外功能，如；購物車、router控制guest/member/admin......等。
 
